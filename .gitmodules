@@ -1,0 +1,3 @@
+[submodule "skycord/Airports"]
+	path = skycord/Airports
+	url = https://github.com/mwgg/Airports.git
